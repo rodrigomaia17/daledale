@@ -6,7 +6,7 @@ const fs = require('fs');
 const R = require('ramda');
 
 const mainPath = path.dirname(fs.realpathSync(__filename));
-const soundPath = path.join(mainPath, './daledale');
+const soundPath = path.join(mainPath, './daledalerodrigo');
 
 const daledale = function (){
     const linuxcmd = R.join('', ['paplay ', soundPath, '.ogg']);

@@ -1,5 +1,5 @@
 {
-  "name": "daledale",
+  "name": "daledalerodrigo",
   "version": "1.0.0",
   "description": "Dale dale dale dale pqp",
   "main": "index.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anabastos/daledale.git"
+    "url": "git+ssh://git@github.com/rodrigomaia17/daledale.git"
   },
   "keywords": [
     "daledale"
   ],
-  "author": "AnaBastos",
+  "author": "rodrigomaia",
   "license": "MIT",
   "bin": {
     "daledale": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/anabastos/daledale/issues"
+    "url": "https://github.com/rodrigomaia17/daledale/issues"
   },
-  "homepage": "https://github.com/anabastos/daledale#readme",
+  "homepage": "https://github.com/rodrigomaia17/daledale#readme",
   "dependencies": {
     "ramda": "^0.26.1"
   }
