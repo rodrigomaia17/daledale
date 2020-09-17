@@ -15,12 +15,12 @@
 ## Installing
 Install globally:
 
-    npm install -g daledale
+    npm install -g daledalerodrigo
 
 ## Running
 Run command:
 
-    daledale
+    daledalerodrigo
 
 Or import in NodeJS script:
 
@@ -31,7 +31,7 @@ Or import in NodeJS script:
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx daledale
+    npx daledalerodrigo
 
 
 ## See also
